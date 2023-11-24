@@ -1,0 +1,1 @@
+PDF to Text Using OCR and Remove WaterMark So that tessaract won't get cataract.
